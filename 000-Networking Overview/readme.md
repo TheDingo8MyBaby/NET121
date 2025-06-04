@@ -88,13 +88,17 @@
 	- Can be requested by the service / application
 - Every process (both client and server) that accesses the network has its own unique port number on that device
 	- You cannot have two processes share the same port on the same IP address
-> Example: ![Networking Overview](000-Networking%20Overview/Images/Pasted%20image%2020250604134459.png)
+> Example:
+> 
+> ![Networking Overview](https://raw.githubusercontent.com/TheDingo8MyBaby/NET121/refs/heads/main/000-Networking%20Overview/Images/Pasted%20image%2020250604134459.png)
 
 ### Socket
 - A socket is a port that is in use
 - It is a combination of protocol, IP address, and port
 - This combination uniquely identifies the connection on the network
-> Example: ![Networking Overview](000-Networking%20Overview/Images/Pasted%20image%2020250604134459.png)
+> Example:
+> 
+> ![Networking Overview](https://raw.githubusercontent.com/TheDingo8MyBaby/NET121/refs/heads/main/000-Networking%20Overview/Images/Pasted%20image%2020250604134744.png)
 
 -----
 ## Networking Overview Review
