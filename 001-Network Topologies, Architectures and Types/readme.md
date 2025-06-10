@@ -61,4 +61,5 @@
 | Distribution | - VLAN Routing<br>- Policy<br>- Redundancy for Access layer<br>- Traffic aggregation                  |
 | Access       | - Connectivity for end devices (clients and servers)<br>- VLAN membership<br>- PoE<br>- Port Security |
 ### Classic Cisco Three-Tier Model
-![[Pasted image 20250610124508.png]]
+
+![Pasted image 20250610124508.png](https://raw.githubusercontent.com/TheDingo8MyBaby/NET121/refs/heads/main/001-Network%20Topologies%2C%20Architectures%20and%20Types/Images/Pasted%20image%2020250610124508.png)
