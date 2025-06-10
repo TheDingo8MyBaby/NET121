@@ -29,7 +29,8 @@
 	- Point-to-multipoint (WANs or wireless)
 - Advantage:  If one device or link malfunctions, the remainder of network still functions
 - Disadvantage:  If the hub fails, the whole network goes down
-![[Pasted image 20250610112646.png]]
+
+![Pasted image 20250610112646.png](https://raw.githubusercontent.com/TheDingo8MyBaby/NET121/refs/heads/main/001-Network%20Topologies%2C%20Architectures%20and%20Types/Images/Pasted%20image%2020250610112646.png)
 ### Mesh
 - Nodes are connected to more than one node
 	- Redundancy
@@ -42,10 +43,12 @@
 > - Partial Mesh:  Some nodes have links to more than one node
 	- Is less expensive with less redundancy
 	- *Good for devices that connect to backbone network*
-![[Pasted image 20250610123743.png]]
+
+![Pasted image 20250610123743.png](https://raw.githubusercontent.com/TheDingo8MyBaby/NET121/refs/heads/main/001-Network%20Topologies%2C%20Architectures%20and%20Types/Images/Pasted%20image%2020250610123743.png)
 ### Hybrid
 - Any combination of the various topologies to create a larger network
-![[Pasted image 20250610123842.png]]
+
+![Pasted image 20250610123842.png](https://raw.githubusercontent.com/TheDingo8MyBaby/NET121/refs/heads/main/001-Network%20Topologies%2C%20Architectures%20and%20Types/Images/Pasted%20image%2020250610123842.png)
 
 -----
 ## Three-tier Hierarchical Model
